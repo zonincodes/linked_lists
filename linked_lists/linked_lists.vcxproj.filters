@@ -21,9 +21,15 @@
     <ClCompile Include="intSLList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="genDLList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="intSLList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="genDLList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
