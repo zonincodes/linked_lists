@@ -32,7 +32,7 @@ public:
 	void addToTail(int);
 	int deleteFromHead();
 	int deleteFromTail();
-	void deleteNode();
+	void deleteNode(int el);
 	bool isInList(int) const;
 
 
